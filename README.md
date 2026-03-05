@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="qroot logo">
+</p>
+
 # qroot
 
 Quantum Cryptography Library implementing BB84 Quantum Key Distribution Protocol.
