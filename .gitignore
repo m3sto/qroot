@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.enc
+*.bin
+key.bin
+my_key.bin
+test*.txt
+encrypted_*
+decrypted_*
